@@ -1,0 +1,110 @@
+[19-Mar-2020 16:20:59 UTC] PHP Notice:  Undefined index: eventname in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 331
+[19-Mar-2020 16:20:59 UTC] PHP Notice:  Undefined index: color in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 344
+[19-Mar-2020 16:20:59 UTC] PHP Notice:  Undefined index: transparency in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 353
+[19-Mar-2020 16:20:59 UTC] PHP Notice:  Undefined index: tagline in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 361
+[19-Mar-2020 16:20:59 UTC] PHP Notice:  Undefined index: tagline in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 362
+[19-Mar-2020 16:20:59 UTC] PHP Notice:  Undefined index: eventline in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 370
+[19-Mar-2020 16:20:59 UTC] PHP Notice:  Undefined index: eventline in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 371
+[19-Mar-2020 16:20:59 UTC] PHP Notice:  Undefined index: maxwidth in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 385
+[19-Mar-2020 16:20:59 UTC] PHP Notice:  Undefined index: setheight in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 394
+[19-Mar-2020 16:20:59 UTC] PHP Notice:  Undefined index: maxheight in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 395
+[19-Mar-2020 16:20:59 UTC] PHP Notice:  Undefined index: square in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 417
+[19-Mar-2020 16:20:59 UTC] PHP Notice:  Undefined index: format in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 425
+[19-Mar-2020 16:20:59 UTC] PHP Notice:  Undefined index: format in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 426
+[19-Mar-2020 16:21:12 UTC] PHP Notice:  Undefined index: transparency in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 353
+[19-Mar-2020 16:21:12 UTC] PHP Notice:  Undefined index: setheight in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 394
+[19-Mar-2020 16:21:12 UTC] PHP Notice:  Undefined index: maxheight in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 395
+[19-Mar-2020 16:21:12 UTC] PHP Notice:  Undefined index: square in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 417
+[19-Mar-2020 16:21:13 UTC] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 444
+[19-Mar-2020 16:21:13 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 444
+[19-Mar-2020 16:21:13 UTC] PHP Warning:  file_get_contents(http://arielton.com/tedx/logo.php?eventname=Atalaia&amp;color=%3Cbr+%2F%3E%0D%0A%3Cb%3ENotice%3C%2Fb%3E%3A++Undefined+index%3A+color+in+%3Cb%3E%2Fhome%2Fu622905006%2Fdomains%2Farielton.com%2Fpublic_html%2Ftedx%2Findex.php%3C%2Fb%3E+on+line+%3Cb%3E344%3C%2Fb%3E%3Cbr+%2F%3E%0D%0Ablack&amp;tagline=1&amp;eventline=1&amp;maxwidth=&amp;border=20&amp;format=png32): failed to open stream: operation failed in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 444
+[19-Mar-2020 16:21:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromstring() in /home/u622905006/domains/arielton.com/public_html/tedx/index.php:445
+Stack trace:
+#0 {main}
+  thrown in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 445
+[19-Mar-2020 16:21:17 UTC] PHP Notice:  Undefined index: transparency in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 353
+[19-Mar-2020 16:21:17 UTC] PHP Notice:  Undefined index: setheight in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 394
+[19-Mar-2020 16:21:17 UTC] PHP Notice:  Undefined index: maxheight in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 395
+[19-Mar-2020 16:21:17 UTC] PHP Notice:  Undefined index: square in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 417
+[19-Mar-2020 16:21:18 UTC] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 444
+[19-Mar-2020 16:21:18 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 444
+[19-Mar-2020 16:21:18 UTC] PHP Warning:  file_get_contents(http://arielton.com/tedx/logo.php?eventname=Atalaia&amp;color=%3Cbr+%2F%3E%0D%0A%3Cb%3ENotice%3C%2Fb%3E%3A++Undefined+index%3A+color+in+%3Cb%3E%2Fhome%2Fu622905006%2Fdomains%2Farielton.com%2Fpublic_html%2Ftedx%2Findex.php%3C%2Fb%3E+on+line+%3Cb%3E344%3C%2Fb%3E%3Cbr+%2F%3E%0D%0Ablack&amp;tagline=1&amp;eventline=1&amp;maxwidth=550&amp;border=20&amp;format=png32): failed to open stream: operation failed in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 444
+[19-Mar-2020 16:21:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromstring() in /home/u622905006/domains/arielton.com/public_html/tedx/index.php:445
+Stack trace:
+#0 {main}
+  thrown in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 445
+[19-Mar-2020 16:50:01 UTC] PHP Notice:  Undefined index: eventname in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 331
+[19-Mar-2020 16:50:01 UTC] PHP Notice:  Undefined index: color in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 344
+[19-Mar-2020 16:50:01 UTC] PHP Notice:  Undefined index: transparency in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 353
+[19-Mar-2020 16:50:01 UTC] PHP Notice:  Undefined index: tagline in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 361
+[19-Mar-2020 16:50:01 UTC] PHP Notice:  Undefined index: tagline in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 362
+[19-Mar-2020 16:50:01 UTC] PHP Notice:  Undefined index: eventline in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 370
+[19-Mar-2020 16:50:01 UTC] PHP Notice:  Undefined index: eventline in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 371
+[19-Mar-2020 16:50:01 UTC] PHP Notice:  Undefined index: maxwidth in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 385
+[19-Mar-2020 16:50:01 UTC] PHP Notice:  Undefined index: setheight in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 394
+[19-Mar-2020 16:50:01 UTC] PHP Notice:  Undefined index: maxheight in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 395
+[19-Mar-2020 16:50:01 UTC] PHP Notice:  Undefined index: square in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 417
+[19-Mar-2020 16:50:01 UTC] PHP Notice:  Undefined index: format in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 425
+[19-Mar-2020 16:50:01 UTC] PHP Notice:  Undefined index: format in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 426
+[19-Mar-2020 16:54:39 UTC] PHP Notice:  Undefined index: eventname in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 331
+[19-Mar-2020 16:54:39 UTC] PHP Notice:  Undefined index: color in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 344
+[19-Mar-2020 16:54:39 UTC] PHP Notice:  Undefined index: transparency in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 353
+[19-Mar-2020 16:54:39 UTC] PHP Notice:  Undefined index: tagline in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 361
+[19-Mar-2020 16:54:39 UTC] PHP Notice:  Undefined index: tagline in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 362
+[19-Mar-2020 16:54:39 UTC] PHP Notice:  Undefined index: eventline in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 370
+[19-Mar-2020 16:54:39 UTC] PHP Notice:  Undefined index: eventline in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 371
+[19-Mar-2020 16:54:39 UTC] PHP Notice:  Undefined index: maxwidth in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 385
+[19-Mar-2020 16:54:39 UTC] PHP Notice:  Undefined index: setheight in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 394
+[19-Mar-2020 16:54:39 UTC] PHP Notice:  Undefined index: maxheight in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 395
+[19-Mar-2020 16:54:39 UTC] PHP Notice:  Undefined index: square in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 417
+[19-Mar-2020 16:54:39 UTC] PHP Notice:  Undefined index: format in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 425
+[19-Mar-2020 16:54:39 UTC] PHP Notice:  Undefined index: format in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 426
+[19-Mar-2020 16:54:47 UTC] PHP Notice:  Undefined index: eventname in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 331
+[19-Mar-2020 16:54:47 UTC] PHP Notice:  Undefined index: color in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 344
+[19-Mar-2020 16:54:47 UTC] PHP Notice:  Undefined index: transparency in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 353
+[19-Mar-2020 16:54:47 UTC] PHP Notice:  Undefined index: tagline in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 361
+[19-Mar-2020 16:54:47 UTC] PHP Notice:  Undefined index: tagline in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 362
+[19-Mar-2020 16:54:47 UTC] PHP Notice:  Undefined index: eventline in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 370
+[19-Mar-2020 16:54:47 UTC] PHP Notice:  Undefined index: eventline in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 371
+[19-Mar-2020 16:54:47 UTC] PHP Notice:  Undefined index: maxwidth in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 385
+[19-Mar-2020 16:54:47 UTC] PHP Notice:  Undefined index: setheight in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 394
+[19-Mar-2020 16:54:47 UTC] PHP Notice:  Undefined index: maxheight in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 395
+[19-Mar-2020 16:54:47 UTC] PHP Notice:  Undefined index: square in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 417
+[19-Mar-2020 16:54:47 UTC] PHP Notice:  Undefined index: format in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 425
+[19-Mar-2020 16:54:47 UTC] PHP Notice:  Undefined index: format in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 426
+[19-Mar-2020 16:55:57 UTC] PHP Notice:  Undefined index: eventname in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 331
+[19-Mar-2020 16:55:57 UTC] PHP Notice:  Undefined index: color in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 344
+[19-Mar-2020 16:55:57 UTC] PHP Notice:  Undefined index: transparency in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 353
+[19-Mar-2020 16:55:57 UTC] PHP Notice:  Undefined index: tagline in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 361
+[19-Mar-2020 16:55:57 UTC] PHP Notice:  Undefined index: tagline in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 362
+[19-Mar-2020 16:55:57 UTC] PHP Notice:  Undefined index: eventline in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 370
+[19-Mar-2020 16:55:57 UTC] PHP Notice:  Undefined index: eventline in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 371
+[19-Mar-2020 16:55:57 UTC] PHP Notice:  Undefined index: maxwidth in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 385
+[19-Mar-2020 16:55:57 UTC] PHP Notice:  Undefined index: setheight in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 394
+[19-Mar-2020 16:55:57 UTC] PHP Notice:  Undefined index: maxheight in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 395
+[19-Mar-2020 16:55:57 UTC] PHP Notice:  Undefined index: square in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 417
+[19-Mar-2020 16:55:57 UTC] PHP Notice:  Undefined index: format in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 425
+[19-Mar-2020 16:55:57 UTC] PHP Notice:  Undefined index: format in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 426
+[19-Mar-2020 16:56:08 UTC] PHP Notice:  Undefined index: transparency in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 353
+[19-Mar-2020 16:56:08 UTC] PHP Notice:  Undefined index: setheight in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 394
+[19-Mar-2020 16:56:08 UTC] PHP Notice:  Undefined index: maxheight in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 395
+[19-Mar-2020 16:56:08 UTC] PHP Notice:  Undefined index: square in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 417
+[19-Mar-2020 16:56:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromstring() in /home/u622905006/domains/arielton.com/public_html/tedx/index.php:445
+Stack trace:
+#0 {main}
+  thrown in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 445
+[19-Mar-2020 16:56:51 UTC] PHP Notice:  Undefined index: eventname in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 331
+[19-Mar-2020 16:56:51 UTC] PHP Notice:  Undefined index: color in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 344
+[19-Mar-2020 16:56:51 UTC] PHP Notice:  Undefined index: transparency in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 353
+[19-Mar-2020 16:56:51 UTC] PHP Notice:  Undefined index: tagline in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 361
+[19-Mar-2020 16:56:51 UTC] PHP Notice:  Undefined index: tagline in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 362
+[19-Mar-2020 16:56:51 UTC] PHP Notice:  Undefined index: eventline in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 370
+[19-Mar-2020 16:56:51 UTC] PHP Notice:  Undefined index: eventline in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 371
+[19-Mar-2020 16:56:51 UTC] PHP Notice:  Undefined index: maxwidth in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 385
+[19-Mar-2020 16:56:51 UTC] PHP Notice:  Undefined index: setheight in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 394
+[19-Mar-2020 16:56:51 UTC] PHP Notice:  Undefined index: maxheight in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 395
+[19-Mar-2020 16:56:51 UTC] PHP Notice:  Undefined index: square in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 417
+[19-Mar-2020 16:56:51 UTC] PHP Notice:  Undefined index: format in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 425
+[19-Mar-2020 16:56:51 UTC] PHP Notice:  Undefined index: format in /home/u622905006/domains/arielton.com/public_html/tedx/index.php on line 426
